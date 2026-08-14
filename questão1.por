@@ -1,4 +1,3 @@
-# questão1
 programa
 {
 	
